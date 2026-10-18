@@ -1,7 +1,7 @@
 # BVP Mikuni Scraper
 
-[![test](https://github.com/shimomo/bvp-mikuni-scraper/actions/workflows/test.yml/badge.svg)](https://github.com/shimomo/bvp-mikuni-scraper/actions/workflows/test.yml)
-[![codecov](https://codecov.io/gh/shimomo/bvp-mikuni-scraper/graph/badge.svg?token=ND29H7ZHTA)](https://codecov.io/gh/shimomo/bvp-mikuni-scraper)
+[![test](https://github.com/boatracevibeproject/mikuni-scraper/actions/workflows/test.yml/badge.svg)](https://github.com/boatracevibeproject/mikuni-scraper/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/boatracevibeproject/mikuni-scraper/graph/badge.svg)](https://codecov.io/gh/boatracevibeproject/mikuni-scraper)
 [![php](https://poser.pugx.org/bvp/mikuni-scraper/require/php)](https://packagist.org/packages/bvp/mikuni-scraper)
 [![stable](https://poser.pugx.org/bvp/mikuni-scraper/v/stable)](https://packagist.org/packages/bvp/mikuni-scraper)
 [![license](https://poser.pugx.org/bvp/mikuni-scraper/license)](https://packagist.org/packages/bvp/mikuni-scraper)
