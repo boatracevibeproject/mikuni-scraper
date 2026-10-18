@@ -1,7 +1,7 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
     "name": "bvp/mikuni-scraper",
-    "description": "Mikuni Scraper for Boatrace Venture Project",
+    "description": "BVP Mikuni Scraper：ボートレース三国の公式サイトからデータを取得する PHP ライブラリ（scraper-stadiums へ移行） | Archived: moved to scraper-stadiums",
     "keywords": [
         "boatrace",
         "library",
@@ -16,8 +16,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/shimomo/bvp-mikuni-scraper/issues",
-        "source": "https://github.com/shimomo/bvp-mikuni-scraper"
+        "issues": "https://github.com/boatracevibeproject/mikuni-scraper/issues",
+        "source": "https://github.com/boatracevibeproject/mikuni-scraper"
     },
     "require": {
         "php": "^8.2",
